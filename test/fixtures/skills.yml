@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  percent_initilized: MyString
+  integer: MyString
+
+two:
+  title: MyString
+  percent_initilized: MyString
+  integer: MyString

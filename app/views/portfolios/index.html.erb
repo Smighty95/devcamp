@@ -1,0 +1,7 @@
+<h1>Portfolio items</h1>
+
+<!-- <a href="portfolios/new" title="">Create new Item</a> -->
+
+<%= link_to "Create new Item", new_portfolio_path %>
+
+<%= render partial: "portfolio_item", collection: @portfolio_items %>
